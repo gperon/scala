@@ -1,4 +1,8 @@
 scala
 =====
 
-scala exercuse from "SCALA for the Impatient"
+scala exercise from 
+"SCALA for the Impatient"
+Cay S. Horstmann
+Addison-Wesley
+2012
